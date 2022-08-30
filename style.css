@@ -1,0 +1,14 @@
+p, a, ol, ul {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+.trig-func {
+    margin: 5px;
+}
+
+p.trig-func {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-right: 5px;
+}
